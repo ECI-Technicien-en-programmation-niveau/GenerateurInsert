@@ -1,7 +1,7 @@
 # GenerateurInsert
 
-Méthode Agile<br>
-<br>
+Méthode Agile
+<br><br>
 Méthode : Extrem Programming<br>
 •	Refactoring du code : retravailler le code pour le rendre plus lisible et plus robuste - Programmation en binôme<br>
 •	Propriété collective du code<br>
@@ -12,17 +12,17 @@ Méthode : Extrem Programming<br>
 <br>
 Convention de nommage Classe : Pascal Snake case<br>
 <br>
-Exemple : Controlleur_Menu_Principal<br><br>
+Exemple :<br> Controlleur_Menu_Principal<br>
 Convention de nommage Variable : Type -> Nom/Abbreviation Classe -> nom de la variable<br>
 <br>
-Exemple :<br><br>
+Exemple :<br>
 String de la class client et on reprend le prénom<br>
 S_Client_FirstName<br>
 String de la classe ClientManagement et on reprend le prénom<br>
 S_CM_FirstName<br>
 
 <br>
-Ressource :<br><br>
+Ressource :<br>
 
 •	Eclipse (jdk 14)<br>
 •	GitHub<br>
